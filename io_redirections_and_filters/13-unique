@@ -1,2 +1,2 @@
 #!/bin/bash
-./script.sh < words.txt
+./unique_words.sh < input.txt
